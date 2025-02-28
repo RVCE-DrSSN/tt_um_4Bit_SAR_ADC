@@ -1,7 +1,7 @@
 # Tiny Tapeout project information
 project:
   title:        "4-Bit Successive Approximation ADC"      # Project title
-  author:       "Sudarshana K S, Viraj Bhat B, Shreyas Gowda B N, Sudharsan S, Dr. Shylashree N, Dr. K S Geetha, Dr. Subramanya K N, RV Cellege of Engineering"      # Your name
+  author:       "Sudarshana K S, Viraj Bhat B, Shreyas Gowda B N, Sudharsan S, Dr. Shylashree N, Dr. K S Geetha, Dr. Subramanya K N, RV College of Engineering"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "4-Bit Successive Approximation Analog-to Digital Converter"      # One line description of what your project does
   language:     "Analog" # other examples include Verilog, Amaranth, VHDL, etc
