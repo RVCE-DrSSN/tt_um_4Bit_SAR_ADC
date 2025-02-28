@@ -8,7 +8,7 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## Credits :
- We extend our special thanks to Dr. Shylashree N, Associate Professor, Department of Electronics and Communication, RVCE; Dr. Geetha K S, Vice Principal, RVCE; and Dr. Subramanya K N, Principal, RVCE, for their constant support and encouragement, which enabled us to design a tapeout for Tiny Tapout 10.
+ We extend our special thanks to Dr. Ravish Aradhya HV, Head of Department, Department of Electronics and Communication, RVCE; Dr. Geetha KS, Vice Principal, RVCE; and Dr. Subramanya KN, Principal, RVCE, for their constant support and encouragement, which enabled us to design a tapeout for Tiny Tapout 10.
 
 
 ## Description
