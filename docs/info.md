@@ -22,7 +22,7 @@ The 4-Bit SAR ADC operates by efficiently converting Analog continous time data 
 2. R-2R Ladder Digital-to-Analog Converter:
    - This block converts the digital output from the SAR into its corresponding analog value, which is then fed to the comparator as a reference.
    - The DAC output must be highly accurate to minimize Differential Non-Linearity (DNL) and Integral Non-Linearity (INL) errors in the ADC.
-   - The DAC needs to be Driven by a very low resistance Driver circuit achieved by using Wide NMOS and PMOS pair at the Input of the DAC.
+   - The DAC needs to be driven by a very low resistance Driver circuit achieved by using Wide NMOS and PMOS pair at the Input of the DAC.
 
 3. Complementary Comparator Pair:
    - A generic comparator often has a limited common-mode range, making it unreliable when comparing signals outside this range.
