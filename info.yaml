@@ -3,7 +3,7 @@ project:
   title:        "4-Bit Successive Approximation ADC"      # Project title
   author:       "Sudarshana K S, Viraj Bhat B, Shreyas Gowda B N, Sudharsan S, Dr. Shylashree N, Dr. K S Geetha, Dr. Subramanya K N, RV College of Engineering"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "4-Bit Successive Approximation Analog-to Digital Converter"      # One line description of what your project does
+  description:  "4-Bit Successive Approximation Analog-to-Digital Converter"      # One line description of what your project does
   language:     "Analog" # other examples include Verilog, Amaranth, VHDL, etc
   clock_hz:     5000000       # Clock frequency in Hz (or 0 if not applicable)
 
