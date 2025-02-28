@@ -34,7 +34,7 @@ Overall, the 4-Bit SAR ADC offers an efficient and reliable method for data conv
 ## How to test
 
 Analog Input (Vin):
-   - Connect the analog input to the `ua_0` AnalogIn pin.
+   - Connect the analog input to the `ua_0` Analog pin.
    - The input should be held constant throughout the conversion cycle using an external sample-and-hold circuit.
    
 Clock (clk):
