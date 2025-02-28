@@ -1,4 +1,4 @@
-<!---
+ <!---
 
 This file is used to generate your project datasheet. Please fill in the information below and delete any unused
 sections.
@@ -10,7 +10,7 @@ You can also include images in this folder and reference them in the markdown. E
 ## Credits :
  We sincerely acknowledge the Center of Excellence in Integrated Circuits and Systems(CoE-ICAS) and the Department of Electronics and Communication Engineering, RV College of Engineering, Bengaluru, for their invaluable support in providing us with their knowledge and training.
  
- We extend our special gratitude to Dr. Ravish Aradhya H V (HoD, ECE), Dr. K S Geetha (Vice Principal) and Dr. K N Subramanya (Principal) for their constant support and encouragement, which enabled us to design a tapeout for Tiny Tapout 10.
+ We extend our special gratitude to Dr. M Uttara Kumari (Dean-Research and Development), Dr. Ravish Aradhya H V (HoD, ECE), Dr. K S Geetha (Vice Principal) and Dr. K N Subramanya (Principal) for their constant support and encouragement, which enabled us to design a tapeout for Tiny Tapout 10.
 
 
 ## Description
